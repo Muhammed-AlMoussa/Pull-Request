@@ -3,3 +3,4 @@ trying pull request form local repo to local repo and from local repo to remot r
 
 trying form the local repo to the main repo directly
 
+trying from the local repo to the local repo then to the remot repo
